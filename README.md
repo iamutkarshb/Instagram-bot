@@ -1,11 +1,23 @@
-# Instagram-bot
-it's an auto liking bot...
-To run it install selenium by runing the below command line on cmd:        
-        pip install selenium
-        
-install chrome and  chromedriver on ur computer from the repo 
-or by using the given link
-        https://sites.google.com/a/chromium.org/chromedriver/downloads
-and add the exe file in the executable path...
+# Instagram-bot auto liking
 
-HAPPY CODING
+This Bot will help you like photos in a serial order from any hashtags u want.
+Good for promoting insta buisness if you a newbie and looking for a faster way to gain likes4likes. 
+
+### Guidelines
+
+  * Each an every component and files for it should be in its folder
+    inside the component folder.
+  * Each page should be in their own directory in the pages directory.
+  * Make sure no one commits to the master branch
+  * Don't merge locally. Always create PRs.
+  
+### Language Used
+  * Python
+
+### Pre Requirements
+
+  * Selenium:
+    cmd command: pip install selenium
+    
+  * chromedriver:
+    Given in the files itself or you can download it online
